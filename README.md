@@ -18,3 +18,5 @@ Os dados utilizados estão no arquivo base.xlsx, contendo informações sobre ve
 
 ## 🔎 Observação
 Este dashboard faz parte de um desafio educacional e poderá ser aprimorado futuramente com novas análises.
+
+link do dashboard: https://docs.google.com/spreadsheets/d/10hS2v0tMMqbqJy9EGEei5vWMnCnr1ICO9QvxL_3X6qc/edit?usp=drivesdk
